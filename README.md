@@ -9,7 +9,7 @@ Hello, my name is Inayat and I am a BSc university student studying Cyber Securi
 | Project | Description | Tools |
 |---|---|---|
 | [Reconnaissance and Enumeration of a Vulnerable Host](https://github.com/IR-dvlper/Reconnaissance-and-Enumeration-of-a-Vulnerable-Host) | Black-box reconnaissance, enumeration and vulnerability assessment of an intentionally vulnerable host. | Nmap, Enum4linux, smbclient, Netcat, Nikto |
-| Digital Forensics Investigation — 2012 DC National Art Gallery | Scenario-based forensic investigation into a seized hard drive, recovering 20+ data artefacts and encrypted communications. | Autopsy |
+| [Digital Forensics Investigation — 2012 DC National Art Gallery](https://github.com/IR-dvlper/Digital-Forensics-Investigation-DC-National-Art-Gallery) | Scenario-based forensic investigation into a seized hard drive, recovering 20+ data artefacts and encrypted communications. | Autopsy |
 | Network Security Analysis — Wireshark/TShark & SIEM Research | Step-by-step tutorial simulating the TCP three-way handshake and SYN flood detection, alongside a blog post on SIEM implementation, legal frameworks and real-world case studies. | Wireshark, TShark |
 
 *(Links will be added as each project folder is finalised.)*
