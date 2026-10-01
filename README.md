@@ -11,7 +11,7 @@ Hello, my name is Inayat and I am a BSc university student studying Cyber Securi
 | [Reconnaissance and Enumeration of a Vulnerable Host](https://github.com/IR-dvlper/Reconnaissance-and-Enumeration-of-a-Vulnerable-Host) | Black-box reconnaissance, enumeration and vulnerability assessment of an intentionally vulnerable host. | Nmap, Enum4linux, smbclient, Netcat, Nikto |
 | [Digital Forensics Investigation — 2012 DC National Art Gallery](https://github.com/IR-dvlper/Digital-Forensics-Investigation-DC-National-Art-Gallery) | Scenario-based forensic investigation into a seized hard drive, recovering 20+ data artefacts and encrypted communications. | Autopsy |
 | [Network Security Analysis — Wireshark/TShark & SIEM Research](https://github.com/IR-dvlper/Network-Security-Analysis) | Step-by-step tutorial simulating the TCP three-way handshake and SYN flood detection, alongside a blog post on SIEM implementation, legal frameworks and real-world case studies. | Wireshark, TShark |
-| [2D Mouse Click game](https://github.com/IR-dvlper/2D-Mouse-Click-game) | Point and click game built with Processing Java, implementing Object Oriented Programming principles alongside and common game features | Processing (Java) |
+| [2D Mouse Click game](https://github.com/IR-dvlper/2D-Mouse-Click-game) | Point and click game built with Processing Java, implementing Object Oriented Programming principles alongside common game features | Processing (Java) |
 
 ---
 
